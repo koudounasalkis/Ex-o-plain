@@ -68,9 +68,9 @@ Finally, you can exploit the global Shapley values to investigate the impact of 
 
 ## Citation
 If you use this code in your research, please cite our paper:
-```
-@inproceedings{
-  koudounas2023bad,
+
+```bibtex
+@inproceedings{koudounas2023bad,
   title={Bad Exoplanet! Explaining Degraded Performance when Reconstructing Exoplanets Atmospheric Parameters},
   author={Alkis Koudounas and Flavio Giobergia and Elena Baralis},
   booktitle={NeurIPS 2023 AI for Science Workshop},

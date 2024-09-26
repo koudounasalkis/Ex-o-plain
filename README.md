@@ -11,7 +11,7 @@ We introduce Ex🪐plain, a model-agnostic framework to identify and describe ex
 ## Papers
 Code associated with the papers 
 - [**"Bad Exoplanet! Explaining Degraded Performance when Reconstructing Exoplanets Atmospheric Parameters"**](https://openreview.net/forum?id=9Z4XZOhwiz&referrer=%5Bthe%20profile%20of%20Alkis%20Koudounas%5D(%2Fprofile%3Fid%3D~Alkis_Koudounas1)), accepted at NeurIPS AI4Science Workshop 2023
-- **"Ex(o)plain: Subgroup-level analysis of exoplanet atmospheric parameters"**, currently under submission.
+- [**"Ex(o)plain: Subgroup-level analysis of exoplanet atmospheric parameters"**](https://ieeexplore.ieee.org/document/10689522), accepted at IEEE Access 2024.
 
 ------------------ 
 
@@ -67,7 +67,20 @@ Finally, you can exploit the global Shapley values to investigate the impact of 
 
 
 ## Citation
-If you use this code in your research, please cite our paper:
+If you use this code in your research, please cite our papers:
+
+```bibtex
+@ARTICLE{10689522,
+  author={Koudounas, Alkis and Giobergia, Flavio and Baralis, Elena},
+  journal={IEEE Access}, 
+  title={Ex(o)plain: Subgroup-level analysis of exoplanet atmospheric parameters}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Atmospheric modeling;Exoplanet;Atmospheric measurements;Computational modeling;Atmospheric waves;Metadata;Deep learning;Explainable AI;Detection algorithms;Deep Learning;Divergence;Exoplanet Atmospheric Parameters;Explainable AI;Subgroup Detection},
+  doi={10.1109/ACCESS.2024.3466919}}
+```
 
 ```bibtex
 @inproceedings{koudounas2023bad,
